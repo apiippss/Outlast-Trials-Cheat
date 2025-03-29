@@ -11,7 +11,7 @@
   <br>
   Archive Password: Released
   <br>
-  <a href="https://t.me/RabbitHoleDev">
+  <a href="https://t.me/OutlastRab">
     <img src="https://img.shields.io/badge/Join%20Telegram-Updates%20%26%20Support-blue?style=flat-square&logo=telegram" alt="Telegram Channel">
   </a>
 </div>
